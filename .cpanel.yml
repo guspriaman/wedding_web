@@ -1,0 +1,12 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/u1663928/public_html/wedding_web/
+    - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp blog.html $DEPLOYPATH
+    - /bin/cp gallery.html $DEPLOYPATH
+    - /bin/cp groom-bride.html $DEPLOYPATH
+    - /bin/cp guest.html $DEPLOYPATH
+    - /bin/cp when-where.html $DEPLOYPATH
+    - /bin/cp gulpfile.js $DEPLOYPATH
+    - /bin/cp -R assets $DEPLOYPATH    
