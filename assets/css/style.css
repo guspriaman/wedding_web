@@ -27,7 +27,7 @@ body.fh5co-offcanvas {
 }
 
 a {
-  color: #5203ad;
+  color: #8532e3;
   -webkit-transition: 0.5s, ease;
   -o-transition: 0.5s, ease;
   transition: 0.5s, ease;
@@ -58,7 +58,7 @@ figure {
 
 ::-webkit-selection {
   color: #fcfcfc;
-  background: #F69D9D;
+  background: #8532e3;
 }
 
 ::-moz-selection {
@@ -68,7 +68,7 @@ figure {
 
 ::selection {
   color: #fcfcfc;
-  background: #d00000;
+  background: #8532e3;
 }
 
 #fh5co-header {
@@ -265,11 +265,11 @@ figure {
 }
 
 .sf-menu a:hover, .sf-menu a:focus {
-  color: #c80606 !important;
+  color: #8532e3 !important;
 }
 
 .sf-menu li.active a:hover, .sf-menu li.active a:focus {
-  color: #b00000;
+  color: #8532e3;
 }
 
 .sf-menu li,
@@ -293,7 +293,7 @@ figure {
 .sf-menu ul li:hover a,
 .sf-menu ul li.sfHover a,
 .sf-menu li.active a {
-  color: #b80000;
+  color: #8532e3;
 }
 
 .sf-menu ul li:hover,
@@ -378,11 +378,11 @@ figure {
 }
 
 #fh5co-logo a {
-  color: #cf0000;
+  color: #8532e3;
 }
 
 #fh5co-logo a:hover, #fh5co-logo a:focus {
-  color: #e30202 !important;
+  color: #8532e3 !important;
 }
 
 #fh5co-menu-wrap {
@@ -398,7 +398,7 @@ figure {
 }
 
 #fh5co-primary-menu > li > ul li.active > a {
-  color: #d80505 !important;
+  color: #8532e3 !important;
 }
 
 #fh5co-primary-menu > li > .sf-with-ul:after {
@@ -524,7 +524,7 @@ figure {
 }
 
 #fh5co-primary-menu .fh5co-sub-menu a:hover {
-  color: #e30202 !important;
+  color: #8532e3 !important;
 }
 
 #fh5co-couple,
@@ -566,7 +566,7 @@ figure {
   font-size: 50px;
   font-weight: 300;
   position: relative;
-  color: #d50404;
+  color: #8532e3;
 }
 
 .heading-section p {
@@ -594,7 +594,7 @@ figure {
 #fh5co-couple .amp-center {
   font-size: 60px;
   margin-top: 100%;
-  color: #cd0000;
+  color: #8532e3;
 }
 
 @media screen and (max-width: 768px) {
@@ -604,7 +604,7 @@ figure {
 }
 
 #fh5co-countdown {
-  background: #d60707;
+  background: #8532e3;
 }
 
 #fh5co-countdown .countdown {
@@ -731,7 +731,7 @@ figure {
 #fh5co-started .btn-block {
   height: 54px;
   border: none !important;
-  background: #cb0101;
+  background: #8532e3;
   color: #fff;
   font-size: 16px;
   text-transform: uppercase;
@@ -884,7 +884,7 @@ figure {
 
 .fh5co-social-icons > a {
   padding: 4px 10px;
-  color: #e30505;
+  color: #8532e3;
 }
 
 .fh5co-social-icons > a i {
@@ -897,7 +897,7 @@ figure {
 }
 
 #footer {
-  background: #e10000;
+  background: #8532e3;
   padding: 60px 0 40px;
 }
 
@@ -928,7 +928,7 @@ figure {
 }
 
 .btn.btn-primary {
-  background: #bc0606;
+  background: #8532e3;
   color: #fff;
   border: none !important;
   border: 2px solid transparent !important;
@@ -936,7 +936,7 @@ figure {
 
 .btn.btn-primary:hover, .btn.btn-primary:active, .btn.btn-primary:focus {
   box-shadow: none;
-  background: #b31111;
+  background: #8532e3;
   color: #fff !important;
 }
 
@@ -1033,7 +1033,7 @@ figure {
 }
 
 #offcanvas-menu ul li.active > a {
-  color: #ba0e0e;
+  color: #8532e3;
 }
 
 #offcanvas-menu ul .fh5co-sub-menu {
